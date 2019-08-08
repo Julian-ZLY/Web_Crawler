@@ -6,13 +6,13 @@
 <!--[if (gt IE 9)|!(IE)]><!--><html class="standard"><!--<![endif]-->
 <head>
     <meta charset="utf-8">
-    <title>【软件测试招聘】_软通动力招聘-BOSS直聘</title>
-    <meta name="keywords" content="软件测试,软件测试招聘,软通动力软件测试招聘"/>
-    <meta name="description" content="软通动力招聘软件测试牛人,更多软通动力软件测试招聘信息,请登录BOSS直聘查看详细的软通动力对软件测试岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html">
-    <link rel="canonical" href="https://www.zhipin.com/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html">
+    <title>【技术总监招聘】_齐创招聘-BOSS直聘</title>
+    <meta name="keywords" content="技术总监,技术总监招聘,齐创技术总监招聘"/>
+    <meta name="description" content="齐创招聘技术总监牛人,更多齐创技术总监招聘信息,请登录BOSS直聘查看详细的齐创对技术总监岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。"/>
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.zhipin.com/job_detail/780ad030f3145d261Hd_0927F1E~.html">
+    <link rel="canonical" href="https://www.zhipin.com/job_detail/780ad030f3145d261Hd_0927F1E~.html">
     <meta name="applicable-device" content="pc">
-    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html">
+    <meta name="mobile-agent" content="format=html5;url=https://m.zhipin.com/job_detail/780ad030f3145d261Hd_0927F1E~.html">
     <link href="https://static.zhipin.com/zhipin-geek/v29/web/geek/css/main.css" type="text/css" rel="stylesheet">
     <script type="text/javascript">
         var _userInfo = {
@@ -23,15 +23,15 @@
             hasKaAnotherS: false
         };
         var _reportData = {
-            reportedId: '2d72e7bf7be795d00nZ729W4GVs~',
-            targetId: '33118232'
+            reportedId: 'cb976607f66e1f880nZ40t2_GVY~',
+            targetId: '33580673'
         };
         var _jobInfo = {
-            job_id: 'd01e0f66d374ce941Hd72tW_E1A~',
-            job_name: '软件测试',
-            job_salary: '10-15K',
-            company:'软通动力',
-            brand_logo:'https://img.bosszhipin.com/beijin/mcs/chatphoto/20190309/d6f0340071a81ecdcaab162fee9c9920c7421cffdbdea8d6f11cda4aeefd5586.jpg'
+            job_id: '780ad030f3145d261Hd_0927F1E~',
+            job_name: '技术总监',
+            job_salary: '15-20K',
+            company:'齐创',
+            brand_logo:'https://img.bosszhipin.com/beijin/mcs/chatphoto/20190207/cb52c1cedba9c20cd6a33bb7989365c0598f5d53618d6876b7e449f6cdaad52b.png'
         };
     </script>
 
@@ -96,36 +96,36 @@
                     <div class="pos-bread">
                         <a href="/" ka="job-breadcrumb-top1">首页</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101200100/" ka="job-breadcrumb-top2">武汉招聘</a>·<a href="/p100301/" ka="job-breadcrumb-top21">测试工程师招聘</a>
+                        <a href="/c101200100/" ka="job-breadcrumb-top2">武汉招聘</a>·<a href="/p100702/" ka="job-breadcrumb-top21">技术总监招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/c101200100-p100301/" ka="job-breadcrumb-top3">武汉测试工程师招聘</a>
+                        <a href="/c101200100-p100702/" ka="job-breadcrumb-top3">武汉技术总监招聘</a>
                         <i class="icon-arrow-right"></i>
-                        <a href="/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html" ka="job-breadcrumb-top4">软通动力软件测试招聘</a>
+                        <a href="/job_detail/780ad030f3145d261Hd_0927F1E~.html" ka="job-breadcrumb-top4">齐创技术总监招聘</a>
                     </div>
                     <div class="info-primary">
                         <div class="job-status">招聘中</div>
                         <div class="name">
-                            <h1>软件测试</h1>
-                            <span class="salary">10-15K</span>
+                            <h1>技术总监</h1>
+                            <span class="salary">15-20K</span>
                         </div>
                             <p>武汉<em class="dolt"></em>5-10年<em class="dolt"></em>本科</p>
                             <div class="tag-container">
                                 <div class="tag-more" style="opacity: 1;">
                                     <span class="link-more">...</span>
                                     <div class="tag-all job-tags">
-                                        <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>带薪年假</span><span>免费班车</span><span>节日福利</span><span>零食下午茶</span><span>绩效奖金</span>
+                                        <span>五险一金</span><span>定期体检</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span><span>餐补</span><span>通讯补贴</span><span>交通补助</span><span>包吃</span><span>节日福利</span><span>住房补贴</span>
                                     </div>
                                 </div>
                                 <div class="job-tags">
-                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>带薪年假</span><span>免费班车</span><span>节日福利</span><span>零食下午茶</span><span>绩效奖金</span>
+                                    <span>五险一金</span><span>定期体检</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span><span>餐补</span><span>通讯补贴</span><span>交通补助</span><span>包吃</span><span>节日福利</span><span>住房补贴</span>
                                 </div>
                             </div>
                     </div>
                     <div class="job-op">
                         <div class="btn-container">
                             <!-- 未登录 -->
-                                                 <a class="btn btn-startchat" ka="go_greet_tosign_33118232" href="javascript:;" redirect-url="/geek/new/index/chat?id=2d72e7bf7be795d00nZ729W4GVs~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=d01e0f66d374ce941Hd72tW_E1A~">立即沟通</a>
+                                                 <a class="btn btn-startchat" ka="go_greet_tosign_33580673" href="javascript:;" redirect-url="/geek/new/index/chat?id=cb976607f66e1f880nZ40t2_GVY~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=780ad030f3145d261Hd_0927F1E~">立即沟通</a>
 
                         </div>
                         <div class="op-container">
@@ -142,29 +142,29 @@
             <div class="inner home-inner">
                 <div class="detail-op">
                     <div class="btns">
-                                             <a class="btn btn-startchat" ka="go_greet_tosign_33118232" href="javascript:;" redirect-url="/geek/new/index/chat?id=2d72e7bf7be795d00nZ729W4GVs~" target="_blank"
-                          data-url="/wapi/zpgeek/friend/add.json?jobId=d01e0f66d374ce941Hd72tW_E1A~">立即沟通</a>
+                                             <a class="btn btn-startchat" ka="go_greet_tosign_33580673" href="javascript:;" redirect-url="/geek/new/index/chat?id=cb976607f66e1f880nZ40t2_GVY~" target="_blank"
+                          data-url="/wapi/zpgeek/friend/add.json?jobId=780ad030f3145d261Hd_0927F1E~">立即沟通</a>
 
                     </div>
                 </div>
                 <div class="company-info">
                     <div class="name">
-                        <h1>软件测试</h1>
-                        <span class="badge">10-15K</span></div>
+                        <h1>技术总监</h1>
+                        <span class="badge">15-20K</span></div>
                         <div class="tag-container">
                             <div class="tag-more" style="opacity: 1;">
                                 <span class="link-more">...</span>
                                 <div class="tag-all job-tags">
-                                    <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>带薪年假</span><span>免费班车</span><span>节日福利</span><span>零食下午茶</span><span>绩效奖金</span>
+                                    <span>五险一金</span><span>定期体检</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span><span>餐补</span><span>通讯补贴</span><span>交通补助</span><span>包吃</span><span>节日福利</span><span>住房补贴</span>
                                 </div>
                             </div>
                             <div class="job-tags">
-                                <span>五险一金</span><span>定期体检</span><span>年终奖</span><span>带薪年假</span><span>免费班车</span><span>节日福利</span><span>零食下午茶</span><span>绩效奖金</span>
+                                <span>五险一金</span><span>定期体检</span><span>加班补助</span><span>全勤奖</span><span>年终奖</span><span>股票期权</span><span>带薪年假</span><span>员工旅游</span><span>餐补</span><span>通讯补贴</span><span>交通补助</span><span>包吃</span><span>节日福利</span><span>住房补贴</span>
                             </div>
                         </div>
                     <div class="info">
-                                软通动力
-                        <a href="/gongsir/29c1ab68d5e3d3360nN63Q~~.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
+                                齐创
+                        <a href="/gongsir/67e9be74bb94f8481Hd92Nm6Ew~~.html" target="_blank" class="link-more" ka="look-all-position">查看所有职位</a>
                     </div>
                 </div>
             </div>
@@ -239,20 +239,19 @@
                     <div class="sider-company">
                         <p class="title">公司基本信息</p>
                             <div class="company-info">
-                                <a ka="job-detail-company-logo_custompage" href="/gongsi/29c1ab68d5e3d3360nN63Q~~.html" title="                                    软通动力
+                                <a ka="job-detail-company-logo_custompage" href="/gongsi/67e9be74bb94f8481Hd92Nm6Ew~~.html" title="                                    齐创
 " target="_blank">
-                                        <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190309/d6f0340071a81ecdcaab162fee9c9920c7421cffdbdea8d6f11cda4aeefd5586.jpg?x-oss-process=image/resize,w_120,limit_0" alt=""/>
+                                        <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190207/cb52c1cedba9c20cd6a33bb7989365c0598f5d53618d6876b7e449f6cdaad52b.png?x-oss-process=image/resize,w_120,limit_0" alt=""/>
                                 </a>
-                                <a ka="job-detail-company_custompage" href="/gongsir/29c1ab68d5e3d3360nN63Q~~.html"  title="                                    软通动力
+                                <a ka="job-detail-company_custompage" href="/gongsir/67e9be74bb94f8481Hd92Nm6Ew~~.html"  title="                                    齐创
 招聘" target="_blank">
-                                                                        软通动力
+                                                                        齐创
 
                                 </a>
                             </div>
-                                 <p><i class="icon-stage"></i>已上市</p>
-                                <p><i class="icon-scale"></i>10000人以上</p>
-                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100021/">计算机软件</a></p>
-                                <p><i class="icon-net"></i>http://www.isoftstone.com</p>
+                                 <p><i class="icon-stage"></i>不需要融资</p>
+                                <p><i class="icon-scale"></i>0-20人</p>
+                                <p><i class="icon-industry"></i><a ka="job-detail-brandindustry" href="/i100023/">计算机服务</a></p>
                      <p class="gray">更新于：2019-08-07</p>
                 </div>
 
@@ -266,65 +265,65 @@
                     <a class="btn" href="/activity/personality/index.html" target="_blank" ka="job-detail-personality">立即测试</a>
                 </div>
                     <div class="promotion-job">
-                        <h3><a href="/c101200100-p100301/e_106-y_4/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
+                        <h3><a href="/c101200100-p100702/e_106-y_5/" ka="more-similar-jobs2" class="more" target="_blank">更多相似职位</a>相似职位</h3>
                         <ul>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand1_custompage" href="/gongsi/2d208a8834e4a58203d43Q~~.html" target="_blank" title="中软国际">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190718/f5690c8042236d2e12ea2877c75d99c6109ebc61280d13acc63d864c9ba0fc6f_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand1_custompage" href="/gongsi/4e5ace636a84459203F80tu6EA~~.html" target="_blank" title="金美泰">
+                                                <img src="https://img.bosszhipin.com/beijin/upload/com/logo/20190525/0ca5185510c7c1e533b2f37be52a8bdee2130a34e59f924c47415c4eba020759.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_1" href="/job_detail/e916cedc25d46c6e03d52di6E1M~.html" target="_blank">软件测试 <span class="red">6-11K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/2d208a8834e4a58203d43Q~~.html" target="_blank" title="中软国际招聘">中软国际</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_1" href="/job_detail/02db5e9d4d50e71103d73tm0E1U~.html" target="_blank">技术总监 <span class="red">8-12K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob1_custompage" href="/gongsir/4e5ace636a84459203F80tu6EA~~.html" target="_blank" title="金美泰招聘">金美泰</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand2_custompage" href="/gongsi/c6a54d17b3dfd7b403J73Ni4GQ~~.html" target="_blank" title="深圳易思博酷客">
-                                                <img src="https://img.bosszhipin.com/beijin/images/imaged612dec83f620b7f95b342e654323927-7db4d06f42caca71AdzZDW0Qxe_63MzhBg~~?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand2_custompage" href="/gongsi/995458df6db6fe391XR82927EA~~.html" target="_blank" title="杭州云片网络科技...">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20180607/2f9f53c08a6fa1917ceec4f53734202a2b31a40570671a21d5c8a748ad8ebc09.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_2" href="/job_detail/8da5cb2ddbff378503B63N27EFI~.html" target="_blank">软件测试 <span class="red">7-12K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/c6a54d17b3dfd7b403J73Ni4GQ~~.html" target="_blank" title="深圳易思博酷客招聘">深圳易思博酷客</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_2" href="/job_detail/0bf010644eb87bb91HN40ty4EFo~.html" target="_blank">技术总监 <span class="red">8-13K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob2_custompage" href="/gongsir/995458df6db6fe391XR82927EA~~.html" target="_blank" title="杭州云片网络科技...招聘">杭州云片网络科技...</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand3_custompage" href="/gongsi/2d208a8834e4a58203d43Q~~.html" target="_blank" title="中软国际">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190718/f5690c8042236d2e12ea2877c75d99c6109ebc61280d13acc63d864c9ba0fc6f_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand3_custompage" href="/gongsi/165c1746544272ad1XFy0t69Ew~~.html" target="_blank" title="武汉点付宝信息科...">
+                                                <img src="https://static.zhipin.com/zhipin-geek/v29/web/geek/images/defaultlogov2.jpg" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_3" href="/job_detail/4dfe8eb5e45fd35a1XB60ty5FVo~.html" target="_blank">软件测试 <span class="red">7-14K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/2d208a8834e4a58203d43Q~~.html" target="_blank" title="中软国际招聘">中软国际</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_3" href="/job_detail/e890a9845b425f4b1XF60tq1ElM~.html" target="_blank">技术总监 <span class="red">7-14K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob3_custompage" href="/gongsir/165c1746544272ad1XFy0t69Ew~~.html" target="_blank" title="武汉点付宝信息科...招聘">武汉点付宝信息科...</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand4_custompage" href="/gongsi/2d18d30553d4b3341nNy3d2-EA~~.html" target="_blank" title="恒隆集团">
-                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190122/532dc8a91ac8dbaddf00a9d23c2f2fd9cfcd208495d565ef66e7dff9f98764da.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand4_custompage" href="/gongsi/2ee772573e1dde161Hd50tk~.html" target="_blank" title="北京尚德机构">
+                                                <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/ae6c09494efeed0388872f2f15cfe092f3bd0a2e42eac4540d9acfbbde641633.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_4" href="/job_detail/1ccebe91c367a1421HN93di8EVc~.html" target="_blank">软件测试 工程师（应届生） <span class="red">5-6K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/2d18d30553d4b3341nNy3d2-EA~~.html" target="_blank" title="恒隆集团招聘">恒隆集团</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_4" href="/job_detail/3f94f69f861d85d41nx539W8FlQ~.html" target="_blank">技术总监 <span class="red">15-25K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob4_custompage" href="/gongsir/2ee772573e1dde161Hd50tk~.html" target="_blank" title="北京尚德机构招聘">北京尚德机构</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="company-logo">
-                                        <a ka="job_sug_brand5_custompage" href="/gongsi/b4970a9c5d5bc8081XB809o~.html" target="_blank" title="好卓数据">
-                                                <img src="https://img2.bosszhipin.com/mcs/chatphoto/20160318/625f53af68bb34f1f4ae38229296987fe6ca105a3801bbfe98724c2ec4840508.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                        <a ka="job_sug_brand5_custompage" href="/gongsi/13f80a7eee06b9900nF_29m6.html" target="_blank" title="一源科技">
+                                                <img src="https://static.zhipin.com/zhipin-geek/v29/web/geek/images/defaultlogov2.jpg" alt="" />
                                         </a>
                                     </div>
                                     <div class="info-primary">
-                                        <div class="name"><a ka="job_sug_5" href="/job_detail/1079722d901b38d31XF439m1GVQ~.html" target="_blank">软件测试 <span class="red">5-9K</span></a></div>
-                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/b4970a9c5d5bc8081XB809o~.html" target="_blank" title="好卓数据招聘">好卓数据</a><em class="vdot">·</em>武汉</p>
+                                        <div class="name"><a ka="job_sug_5" href="/job_detail/efcfe202a81f5ee31Hdy29S9FlU~.html" target="_blank">技术总监（智能化） <span class="red">10-15K</span></a></div>
+                                        <p class="gray"><a ka="job_sug_brandjob5_custompage" href="/gongsir/13f80a7eee06b9900nF_29m6.html" target="_blank" title="一源科技招聘">一源科技</a><em class="vdot">·</em>武汉</p>
                                     </div>
                                 </li>
                         </ul>
-                            <div class="view-more"><a href="/c101200100-p100301/e_106-y_4/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
+                            <div class="view-more"><a href="/c101200100-p100702/e_106-y_5/" target="_blank" ka="more-similar-jobs3"><i class="more">更多相似职位</i></a></div>
                     </div>
 
                 <div class="promotion-img">
@@ -336,18 +335,18 @@
                 <div class="detail-op">
                     <div class="btns">
                         <div class="op-links">
-                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=d01e0f66d374ce941Hd72tW_E1A~&source=2">微信扫码分享</a>
+                            <a ka="job_detail_wechat_share" href="javascript:;" class="link-wechat-share" data-url="/boss/share/job.json?jobId=780ad030f3145d261Hd_0927F1E~&source=2">微信扫码分享</a>
                             <a href="javascript:;" ka="job_detail_like" class="link-like "
-                               data-url="/geek/tag/jobtagupdate.json?jobId=d01e0f66d374ce941Hd72tW_E1A~&expectId=&tag=4&lid=">感兴趣</a>
+                               data-url="/geek/tag/jobtagupdate.json?jobId=780ad030f3145d261Hd_0927F1E~&expectId=&tag=4&lid=">感兴趣</a>
                             <a ka="job_detail_report" href="javascript:;" class="link-report">举报</a>
                         </div>
                     </div>
 
                     <div class="detail-figure">
-                            <img src="https://img.bosszhipin.com/beijin/upload/avatar/20190804/9d2ac32c546453ef72094c88c38a5afe22c657b3a1b12f63ca040fe2acccce75_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                            <img src="https://img.bosszhipin.com/beijin/mcs/useravatar/20190206/aea533f0672a7d3937568cb1d03512f4598f5d53618d6876b7e449f6cdaad52b_s.png?x-oss-process=image/resize,w_100,limit_0" alt="" />
                     </div>
-                    <h2 class="name">张女士<i class="icon-vip"></i></h2>
-                    <p class="gray">招聘顾问<em class="vdot">·</em>刚刚在线</p>
+                    <h2 class="name">熊先生<i class="icon-vip"></i></h2>
+                    <p class="gray">总经理<em class="vdot">·</em>刚刚在线</p>
                 </div>
                 <div class="detail-content">
                     <!--已关闭职位-->
@@ -355,15 +354,27 @@
                             <div class="job-sec">
                                 <h3>职位描述</h3>
                                 <div class="text">
-                                    1、根据软件系统规范编测试计划，设计测试数据和测试用例； 2、搭建测试环境，实施软件功能测试，完成对产品的集成测试与系统测试，对产品的性能及客户上线和项目验收测试任务，并对软件bug进行跟踪分析和报告； 3、协助开发人员分析bug原因，提交产品功能优化、性能改进的建议。 任职要求： 1、统招本科或以上学历； 2、具有良好的文档写作能力和沟通能力。
+                                    公司网络技术全盘管理，从事教育行业经验五年以上，能够熟练处理普教类信息技术工程，一经录用高年薪及员工股权激励！
                                 </div>
                             </div>
+                                <div class="job-sec">
+                                    <h3>团队介绍</h3>
+                                        <div class="text">公司氛围好，完全开放，只要你有能力，啥都可以谈，团队年轻，相互尊重，只要你肯努力！！！</div>
+                                        <div class="job-tags">
+                                                <span>年终分红</span>
+                                                <span>带薪年假</span>
+                                                <span>年度旅游</span>
+                                                <span>地铁周边</span>
+                                                <span>公司氛围好</span>
+                                                <span>理解包容</span>
+                                        </div>
+                                </div>
                                 <div class="job-sec company-info">
                                     <h3>公司介绍</h3>
                                     <div class="text">
-                                        软通动力信息技术（集团）有限公司： <br/><br/>软通动力信息技术（集团）有限公司（以下简称：软通动力）是中国领先的创新型软件及信息技术服务商，数字经济使能者。公司2001年成立于北京，立足中国，服务全球市场。经过17年发展，目前公司在全球36个城市设有90余个分支机构25个全球交付中心，员工总数50000+
+                                        武汉齐创科技有限责任公司是一家20年来专业从事国家普通教育类网络信息化产品销售安装及服务、中小学理化生实验室及多功能室;创客室;心理咨询室建设、教学仪器设备等工程的设计、施工、服务的专业教育集团公司。
                                     </div>
-                                    <a ka="job-comintroduce" href="/gongsi/29c1ab68d5e3d3360nN63Q~~.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
+                                    <a ka="job-comintroduce" href="/gongsi/67e9be74bb94f8481Hd92Nm6Ew~~.html" target="_blank" class="look-all"><span>...</span>查看全部</a>
                                 </div>
                             <div class="job-sec prop-item">
                                 <h3>竞争力分析</h3>
@@ -384,69 +395,69 @@
                             </div>
                                 <div class="job-sec">
                                     <h3>工商信息</h3>
-                                    <div class="name">软通动力信息技术（集团）有限公司</div>
+                                    <div class="name">武汉齐创科技有限责任公司</div>
                                     <div class="level-list">
-                                        <li><span>法人代表：</span>刘天文</li>
-                                        <li><span>注册资金：</span>3856.8758万美元</li>
-                                        <li class="res-time"><span>成立时间：</span>2005-11-04</li>
-                                        <li class="company-type"><span>企业类型：</span>有限责任公司（中外合资）</li>
-                                        <li class="manage-state"><span>经营状态：</span>开业</li>
+                                        <li><span>法人代表：</span>张惠</li>
+                                        <li><span>注册资金：</span>300万元人民币</li>
+                                        <li class="res-time"><span>成立时间：</span>2005-03-14</li>
+                                        <li class="company-type"><span>企业类型：</span>有限责任公司(自然人投资或控股)</li>
+                                        <li class="manage-state"><span>经营状态：</span>存续（在营、开业、在册）</li>
                                     </div>
-                                    <a ka="job-cominfo" href="/gongsi/29c1ab68d5e3d3360nN63Q~~.html" target="_blank" class="look-all">查看全部</a>
+                                    <a ka="job-cominfo" href="/gongsi/67e9be74bb94f8481Hd92Nm6Ew~~.html" target="_blank" class="look-all">查看全部</a>
                                 </div>
                             <div class="job-sec">
                                 <h3>工作地址</h3>
                                 <div class="job-location">
-                                    <div class="location-address">武汉江夏区武汉未来科技城(高新大道)</div>
-                                    <div class="job-location-map js-open-map" data-content="武汉江夏区武汉未来科技城(高新大道)">
-                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:114.5387,30.49256&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
+                                    <div class="location-address">武汉汉阳区龙阳大道万隆城市广场五楼519室</div>
+                                    <div class="job-location-map js-open-map" data-content="武汉汉阳区龙阳大道万隆城市广场五楼519室">
+                                        <img src="https://restapi.amap.com/v3/staticmap?size=652*174&markers=mid,0xFF0000,A:114.206144,30.552914&key=21b56a6cc83fad7668dbb0e9564759a7" alt="公司地址" />
                                         <p>点击查看地图</p>
                                     </div>
                                 </div>
                             </div>
                         <div class="job-recomend">
-                            <h3><a href="/c101200100-p100301/e_106-y_4/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
+                            <h3><a href="/c101200100-p100702/e_106-y_5/" ka="more-similar-jobs4" class="more" target="_blank">更多职位</a>看过该职位的人还看了</h3>
                             <ul>
                                     <li>
-                                        <a ka="job_sug_6" href="/job_detail/123071c798f50f481H1-3Ny0ElA~.html" target="_blank">
+                                        <a ka="job_sug_6" href="/job_detail/c1168714ce5de8f61XZ539W5FlI~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190410/68ea3185d26e6fb9422927c1bec3388627d6117bc5518546ab28f84d9b00bab9_s.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/images/imaged575960c2f779e29326338284524cb60-140ee782fcbf233cA_jdD1IsxcbJFgQET7rBEg~~?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>软件测试经理</b></div>
-                                                <p class="red">10-11K</p >
+                                                <div class="name"><b>技术总监</b></div>
+                                                <p class="red">15-30K</p >
                                                 <p class="gray">
-                                                        武汉盛华<em class="vdot">·</em>
+                                                        众信天下<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
                                         </a>
                                     </li>
                                     <li>
-                                        <a ka="job_sug_7" href="/job_detail/489632b5f20c40c71HVy3tm5EFE~.html" target="_blank">
+                                        <a ka="job_sug_7" href="/job_detail/4852f3be9da270421nx93dm-GVI~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/logo/2629b90a430ce865500931f2f1b5f3c8be1bd4a3bd2a63f070bdbdada9aad826.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://static.zhipin.com/zhipin-geek/v29/web/geek/images/defaultlogov2.jpg" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>软件测试</b></div>
-                                                <p class="red">5-6K</p >
+                                                <div class="name"><b>信息化技术总监</b></div>
+                                                <p class="red">18-22K</p >
                                                 <p class="gray">
-                                                        康博嘉<em class="vdot">·</em>
+                                                        武汉汤逊路亚<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
                                         </a>
                                     </li>
                                     <li>
-                                        <a ka="job_sug_8" href="/job_detail/a80c6a3e0a51b16003Vz3N-6EFY~.html" target="_blank">
+                                        <a ka="job_sug_8" href="/job_detail/ff478942b9ee44f81nx53dy-FFU~.html" target="_blank">
                                             <div class="company-logo">
-                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190309/d6f0340071a81ecdcaab162fee9c9920c7421cffdbdea8d6f11cda4aeefd5586.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
+                                                    <img src="https://img.bosszhipin.com/beijin/mcs/chatphoto/20190213/ae6c09494efeed0388872f2f15cfe092f3bd0a2e42eac4540d9acfbbde641633.jpg?x-oss-process=image/resize,w_100,limit_0" alt="" />
                                             </div>
                                             <div class="info-primary">
-                                                <div class="name"><b>软件测试</b></div>
-                                                <p class="red">8-12K</p >
+                                                <div class="name"><b>Java技术总监</b></div>
+                                                <p class="red">15-25K</p >
                                                 <p class="gray">
-                                                        软通动力<em class="vdot">·</em>
+                                                        北京尚德机构<em class="vdot">·</em>
                                                     武汉
                                                 </p>
                                             </div>
@@ -458,7 +469,7 @@
                         <div class="search-form">
                             <form action="/job_detail/" method="get" target="_blank">
                                 <div class="search-form-con">
-                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="测试工程师"></p>
+                                    <p class="ipt-wrap"><input ka="search-job-query" name="query" type="text" class="ipt-search" autocomplete="off" placeholder="搜索职位、公司" value="技术总监"></p>
                                     <div class="city-sel" ka="search-select-city">
                                         <i class="line"></i>
                                         <span class="label-text cur"><b data-val="101200100">武汉</b><i class="icon-arrow-down"></i></span>
@@ -484,171 +495,171 @@
                              <div class="slider-main">
                                  <ul>
                                             <li class="cur">
-                                        <a ka="job_recommend_1" href="/job_detail/9804ff0ef534bff81XF42dq0FlA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">6-9K</span></div>
-                                            <p>武汉金盒子</p>
+                                        <a ka="job_recommend_1" href="/job_detail/a500f03d9307e5cd1XBy29u0GVY~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">40-60K</span></div>
+                                            <p>人人网</p>
                                         </a>
-                                        <a ka="job_recommend_2" href="/job_detail/fa64c812e2d36f691XB93Nq1GFc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">6-11K</span></div>
-                                            <p>软通动力</p>
+                                        <a ka="job_recommend_2" href="/job_detail/5da9f183000a4db903Z539-9E1o~.html" target="_blank" class="recommend-li">
+                                            <div class="name">CTO/技术总监 <span class="red">22-30K</span></div>
+                                            <p>蓝泰源信息技术</p>
                                         </a>
-                                        <a ka="job_recommend_3" href="/job_detail/71e978edb88f3c5b03B72t26EVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试讲师 <span class="red">9-14K</span></div>
-                                            <p>汇智动力</p>
+                                        <a ka="job_recommend_3" href="/job_detail/96ab90e57fcd12a91nB-2d21ElI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-11K</span></div>
+                                            <p>武汉鑫桥安建筑材料</p>
                                         </a>
-                                        <a ka="job_recommend_4" href="/job_detail/e57bd3cd82bc9b221XJ73ty7Els~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试（实习生） <span class="red">120-130/天</span></div>
-                                            <p>新迪数字</p>
+                                        <a ka="job_recommend_4" href="/job_detail/afbb363f696f787f1XB82965F1A~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">12-15K</span></div>
+                                            <p>慕珈科技服务</p>
                                         </a>
-                                        <a ka="job_recommend_5" href="/job_detail/f753b895c447544b1Xdz3tu0EFA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-13K</span></div>
-                                            <p>北京博睿宏远</p>
+                                        <a ka="job_recommend_5" href="/job_detail/494425f4635b47b61H152Nm7GVQ~.html" target="_blank" class="recommend-li">
+                                            <div class="name">&ldquo;智慧停车&rdquo; JAVA技术总监 <span class="red">10-15K</span></div>
+                                            <p>四维虫科技</p>
                                         </a>
-                                        <a ka="job_recommend_6" href="/job_detail/0d692e2acdf404261XV93Ni4EVU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-10K</span></div>
-                                            <p>武汉高德</p>
+                                        <a ka="job_recommend_6" href="/job_detail/d42fc093822fac501HR93dW1E1s~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-30K</span></div>
+                                            <p>黑速网络</p>
                                         </a>
-                                        <a ka="job_recommend_7" href="/job_detail/36dfbeb0943709dc1XR_29q7F1s~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">10-20K</span></div>
-                                            <p>武汉联影医疗</p>
+                                        <a ka="job_recommend_7" href="/job_detail/8b105f992bbdca721n163d2_EVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">20-35K</span></div>
+                                            <p>泊艺术科技</p>
                                         </a>
-                                        <a ka="job_recommend_8" href="/job_detail/ef59245767906af11X140t6_E1Y~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-10K</span></div>
-                                            <p>软通动力信息技术集团</p>
+                                        <a ka="job_recommend_8" href="/job_detail/dc56526a59a4a4ef1nF83tu8GVM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-11K</span></div>
+                                            <p>众襄隆科技</p>
                                         </a>
-                                        <a ka="job_recommend_9" href="/job_detail/cec11ca2e310bf571nx73NS5ElU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">3-6K</span></div>
-                                            <p>谦喜科技</p>
+                                        <a ka="job_recommend_9" href="/job_detail/1a87ba56a69d7fa103Vy3tq7FFc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">18-25K·15薪</span></div>
+                                            <p>CmsTop</p>
                                         </a>
-                                        <a ka="job_recommend_10" href="/job_detail/9d493385f67c46621HB82t69ElY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">9-14K</span></div>
-                                            <p>软通动力</p>
-                                        </a>
-                                            </li>
-                                            <li class="">
-                                        <a ka="job_recommend_11" href="/job_detail/e5bcc3e4561b28231HVy0t-4FlI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试实习生 <span class="red">2-3K</span></div>
-                                            <p>深圳中电技术</p>
-                                        </a>
-                                        <a ka="job_recommend_12" href="/job_detail/3414e70868b6b60103Z639y9FlY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试/自动化测试 <span class="red">8-13K</span></div>
-                                            <p>软通动力</p>
-                                        </a>
-                                        <a ka="job_recommend_13" href="/job_detail/2d61853b4f4529281Hd92d68FVQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-13K</span></div>
-                                            <p>软通动力</p>
-                                        </a>
-                                        <a ka="job_recommend_14" href="/job_detail/0fdad61db90aced403Z83d68EVA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">7-12K</span></div>
-                                            <p>意游科技</p>
-                                        </a>
-                                        <a ka="job_recommend_15" href="/job_detail/b710177787beb4c81H193Nm-FFo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">6-8K</span></div>
-                                            <p>手游汇</p>
-                                        </a>
-                                        <a ka="job_recommend_16" href="/job_detail/640bcdfe0363d16b03Z62ty4GVE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-8K</span></div>
-                                            <p>新航道信息技术中心</p>
-                                        </a>
-                                        <a ka="job_recommend_17" href="/job_detail/3cc8aa941bd5a1ae1XF739u9FVQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-8K</span></div>
-                                            <p>武汉万尔达信息技...</p>
-                                        </a>
-                                        <a ka="job_recommend_18" href="/job_detail/d8f85ec7312982ce1X1529y0F1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-10K</span></div>
-                                            <p>软通动力</p>
-                                        </a>
-                                        <a ka="job_recommend_19" href="/job_detail/6017f66c3b1c5cf11XF73NS_E1I~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">9-10K</span></div>
-                                            <p>软通动力</p>
-                                        </a>
-                                        <a ka="job_recommend_20" href="/job_detail/340dc0bab756da031n182Ni8FVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">4-7K</span></div>
-                                            <p>数洪云通</p>
+                                        <a ka="job_recommend_10" href="/job_detail/4afbd714337677f21Hd93NW0FlM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">研发经理/技术总监 <span class="red">20-30K</span></div>
+                                            <p>瑞思信息</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_21" href="/job_detail/13345241204e084203dz0tS7EVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试开发工程师 <span class="red">9-14K·13薪</span></div>
-                                            <p>融卡智能科技</p>
+                                        <a ka="job_recommend_11" href="/job_detail/0baf4928c75d00561HV83N-4FVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">20-40K</span></div>
+                                            <p>武大吉奥</p>
                                         </a>
-                                        <a ka="job_recommend_22" href="/job_detail/4d7cc87519cfbc1b1Xx_09y0EFE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-10K</span></div>
-                                            <p>惠通名匠</p>
+                                        <a ka="job_recommend_12" href="/job_detail/e53a82c95039ead81nx-0927GVo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-25K</span></div>
+                                            <p>湖北鄂南文化有限公司</p>
                                         </a>
-                                        <a ka="job_recommend_23" href="/job_detail/62472aaf44a5d97903B72Nm7GFs~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试组组长 <span class="red">6-8K·13薪</span></div>
-                                            <p>博虎科技</p>
+                                        <a ka="job_recommend_13" href="/job_detail/163303dbd7f3f3d21Hx42dS8EFA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">汽修技术总监 <span class="red">11-22K</span></div>
+                                            <p>途虎养车</p>
                                         </a>
-                                        <a ka="job_recommend_24" href="/job_detail/a6f92b205fbc470d1XR42dm9ElQ~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">4-8K</span></div>
-                                            <p>锦然网络科技</p>
+                                        <a ka="job_recommend_14" href="/job_detail/24b28afc16bc7ccb1nJ43dW6EFE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">硬件技术总监 <span class="red">14-28K</span></div>
+                                            <p>哈哈零兽</p>
                                         </a>
-                                        <a ka="job_recommend_25" href="/job_detail/d0ec178c667fc0241n180tm_F1I~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">7-12K</span></div>
-                                            <p>珞珈新空</p>
+                                        <a ka="job_recommend_15" href="/job_detail/690a5c9789a64d5e1HV509-0FVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">IOS技术总监 <span class="red">15-20K</span></div>
+                                            <p>人人咖</p>
                                         </a>
-                                        <a ka="job_recommend_26" href="/job_detail/fe7880f364e59c0a1HF_2Nu9E1c~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试-博泰 <span class="red">6-9K</span></div>
-                                            <p>合肥英泽信息科技</p>
+                                        <a ka="job_recommend_16" href="/job_detail/4a48dd1d7c3296c01XB-2d6-GVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-20K</span></div>
+                                            <p>武汉盛硕</p>
                                         </a>
-                                        <a ka="job_recommend_27" href="/job_detail/7127ef0dda5cd64403B409-0F1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试实习生 <span class="red">100-150/天</span></div>
-                                            <p>固胜科技</p>
+                                        <a ka="job_recommend_17" href="/job_detail/97e767a6780298ac03Z729-0FFM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监（武汉） <span class="red">25-35K</span></div>
+                                            <p>第一秒电商</p>
                                         </a>
-                                        <a ka="job_recommend_28" href="/job_detail/2cb3c623a77765f11HJ_0tq9GVo~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-8K</span></div>
-                                            <p>北京和信创天</p>
+                                        <a ka="job_recommend_18" href="/job_detail/85201896967ea1861nx_2dm0EVE~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监（产品经理） <span class="red">15-25K</span></div>
+                                            <p>尚德机构</p>
                                         </a>
-                                        <a ka="job_recommend_29" href="/job_detail/11b7909ef729b5b41nB-3tq-GVI~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-16K</span></div>
-                                            <p>中软国际</p>
+                                        <a ka="job_recommend_19" href="/job_detail/6aa2d9228ec239521XV-3t-7EFA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-20K</span></div>
+                                            <p>泛兰士</p>
                                         </a>
-                                        <a ka="job_recommend_30" href="/job_detail/941612c62207ebcf03B42d-7F1I~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试实习生 <span class="red">150-200/天</span></div>
-                                            <p>中砼科技</p>
+                                        <a ka="job_recommend_20" href="/job_detail/2098a4b7e52d6c591HN729m7ElM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">18-25K</span></div>
+                                            <p>北大软件武汉分公司</p>
                                         </a>
                                             </li>
                                             <li class="">
-                                        <a ka="job_recommend_31" href="/job_detail/2e39a8c90904bade1H1z2dy8F1E~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试培训讲师 <span class="red">20-40K</span></div>
-                                            <p>泽林信息</p>
+                                        <a ka="job_recommend_21" href="/job_detail/7603b6027e8e98cf1Xd_0ti9EVM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-30K</span></div>
+                                            <p>爱卡云总部</p>
                                         </a>
-                                        <a ka="job_recommend_32" href="/job_detail/aeb6dfe4f9c8917103Z72Ny7FFE~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">4-6K</span></div>
-                                            <p>可待科技</p>
+                                        <a ka="job_recommend_22" href="/job_detail/553045005e7238641nN93ty6F1E~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-16K</span></div>
+                                            <p>你点我帮</p>
                                         </a>
-                                        <a ka="job_recommend_33" href="/job_detail/0a937de6cdaff1691Hx43dW9ElM~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-9K</span></div>
-                                            <p>搏远达</p>
+                                        <a ka="job_recommend_23" href="/job_detail/00ef30dc9b1f78e31XV93dq4F1s~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">8-12K</span></div>
+                                            <p>湖北易旅行</p>
                                         </a>
-                                        <a ka="job_recommend_34" href="/job_detail/52db8c61abdc47891n183tq6EVU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">4-6K</span></div>
-                                            <p>中鹏云资</p>
+                                        <a ka="job_recommend_24" href="/job_detail/8827327127d5e08b1HR72d66FFU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-25K</span></div>
+                                            <p>惠之美物业</p>
                                         </a>
-                                        <a ka="job_recommend_35" href="/job_detail/c5a92c9e1943ecfa1nF-3dm4ElA~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">6-12K</span></div>
-                                            <p>软通动力</p>
+                                        <a ka="job_recommend_25" href="/job_detail/6c9234f576e451fc1nN80t28EVQ~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">25-34K</span></div>
+                                            <p>思安医疗</p>
                                         </a>
-                                        <a ka="job_recommend_36" href="/job_detail/9fbce29298426d4f1XV92tm8EFU~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">7-14K</span></div>
-                                            <p>软通动力</p>
+                                        <a ka="job_recommend_26" href="/job_detail/1105c1d72f14177b1Hd92d66EFo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监（互联网大健康项目） <span class="red">20-30K</span></div>
+                                            <p>悠然一指</p>
                                         </a>
-                                        <a ka="job_recommend_37" href="/job_detail/df0218565201e8b71HZ_392-GFc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">5-10K</span></div>
-                                            <p>浙江甄优智能科技</p>
+                                        <a ka="job_recommend_27" href="/job_detail/23e68dcef1be37f41n143969GVc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-30K</span></div>
+                                            <p>高贝科技</p>
                                         </a>
-                                        <a ka="job_recommend_38" href="/job_detail/514880baa8bc4d9203Vy3dW9EVY~.html" target="_blank" class="recommend-li">
-                                            <div class="name">日语软件测试 <span class="red">5-6K</span></div>
-                                            <p>新桥课拼拼</p>
+                                        <a ka="job_recommend_28" href="/job_detail/ffd21fdf88c0bede03d50t67Flo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">造价技术总监/部长/项目经理 <span class="red">6-11K</span></div>
+                                            <p>湖北大有</p>
                                         </a>
-                                        <a ka="job_recommend_39" href="/job_detail/489161c0e2499ec41Hd72tq0F1Q~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">8-13K</span></div>
-                                            <p>软通动力</p>
+                                        <a ka="job_recommend_29" href="/job_detail/ee634d7443d39ca01XNz2t67F1U~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">30-40K</span></div>
+                                            <p>很皮语音包</p>
                                         </a>
-                                        <a ka="job_recommend_40" href="/job_detail/33dd511d4276a1361XV73Ny5GVc~.html" target="_blank" class="recommend-li">
-                                            <div class="name">软件测试 <span class="red">3-5K</span></div>
-                                            <p>汇卓航科技</p>
+                                        <a ka="job_recommend_30" href="/job_detail/694cba503ae7ed8d03V72NW_F1A~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">12-20K·14薪</span></div>
+                                            <p>盛世利华</p>
+                                        </a>
+                                            </li>
+                                            <li class="">
+                                        <a ka="job_recommend_31" href="/job_detail/ccddc2ba081952731nBy2N25EVI~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-25K</span></div>
+                                            <p>CmsTop</p>
+                                        </a>
+                                        <a ka="job_recommend_32" href="/job_detail/7f1f7ba8f73247da1nx82d20F1E~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-30K</span></div>
+                                            <p>南泥湾</p>
+                                        </a>
+                                        <a ka="job_recommend_33" href="/job_detail/4f1ef35db0715c561HJ63Nu9FlM~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">15-25K</span></div>
+                                            <p>同德兴业</p>
+                                        </a>
+                                        <a ka="job_recommend_34" href="/job_detail/d98e7ba43a4ccf571nF839W1GFc~.html" target="_blank" class="recommend-li">
+                                            <div class="name">PHP技术总监 <span class="red">10-15K</span></div>
+                                            <p>楚小橙</p>
+                                        </a>
+                                        <a ka="job_recommend_35" href="/job_detail/0fcf120cca88c4691nZ-2Ny6GVo~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-20K</span></div>
+                                            <p>爱社区</p>
+                                        </a>
+                                        <a ka="job_recommend_36" href="/job_detail/6b8e6bb4d45609301Hx939--E1M~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">25-50K</span></div>
+                                            <p>诸相网络</p>
+                                        </a>
+                                        <a ka="job_recommend_37" href="/job_detail/f187ff1d8a9f97131nV739o~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">10-20K</span></div>
+                                            <p>车友网</p>
+                                        </a>
+                                        <a ka="job_recommend_38" href="/job_detail/624a3c45e929d2ee1nJ73tm1FlA~.html" target="_blank" class="recommend-li">
+                                            <div class="name">php技术总监 <span class="red">7-14K</span></div>
+                                            <p>武汉速科商务有限</p>
+                                        </a>
+                                        <a ka="job_recommend_39" href="/job_detail/e1325852c5dde5441XRz0tS0FVU~.html" target="_blank" class="recommend-li">
+                                            <div class="name">高级技术总监（武汉） <span class="red">30-40K</span></div>
+                                            <p>TVU</p>
+                                        </a>
+                                        <a ka="job_recommend_40" href="/job_detail/bc84ad7fb6b9bd651nN_29y1F1M~.html" target="_blank" class="recommend-li">
+                                            <div class="name">技术总监 <span class="red">20-21K</span></div>
+                                            <p>楚客云行</p>
                                         </a>
                                             </li>
                                  </ul>
@@ -659,101 +670,101 @@
         <dl class="links-item">
         <dt>推荐公司：</dt>
         <dd>
-                        <a href="/gongsi/230e0b5fd991e8a30nN72Q~~.html" target="_blank" ka="seo-brand-1">微店</a>
-                        <a href="/gongsi/ae367918bc642f290nN-3w~~.html" target="_blank" ka="seo-brand-2">馨盛科技</a>
-                        <a href="/gongsi/cb4acfc19ef126570nN72A~~.html" target="_blank" ka="seo-brand-3">觅优商旅云</a>
-                        <a href="/gongsi/e811d4ccc40ec51d0nN92g~~.html" target="_blank" ka="seo-brand-4">厦门麦田房产</a>
-                        <a href="/gongsi/51c16a2b31f87dae0nN92w~~.html" target="_blank" ka="seo-brand-5">肌肤管家</a>
-                        <a href="/gongsi/e8fc3d01f693841a0nN40g~~.html" target="_blank" ka="seo-brand-6">黄小厨</a>
-                        <a href="/gongsi/ed5a9bdfba6d5b950nN-2A~~.html" target="_blank" ka="seo-brand-7">月租宝</a>
-                        <a href="/gongsi/ac784335fc0020ee0nN83Q~~.html" target="_blank" ka="seo-brand-8">走着网络技术</a>
-                        <a href="/gongsi/694e5331c4f871900nN72w~~.html" target="_blank" ka="seo-brand-9">培农科技</a>
-                        <a href="/gongsi/eaf02415ca5f76fb0nN83A~~.html" target="_blank" ka="seo-brand-10">幕尚互联</a>
-                        <a href="/gongsi/l1786511.html" target="_blank" ka="seo-brand-11">大田县永伟汽车销售有限公司</a>
-                        <a href="/gongsi/l1957177.html" target="_blank" ka="seo-brand-12">东莞市曙光实业发展有限公司富丽酒店</a>
-                        <a href="/gongsi/l1443951.html" target="_blank" ka="seo-brand-13">天津沃洋船务有限公司</a>
-                        <a href="/gongsi/l11177719.html" target="_blank" ka="seo-brand-14">六安博野贸易有限公司</a>
-                        <a href="/gongsi/l1866982.html" target="_blank" ka="seo-brand-15">厦门利多嘉投资咨询有限公司</a>
-                        <a href="/gongsi/l1697910.html" target="_blank" ka="seo-brand-16">开原市指为你美甲店</a>
-                        <a href="/gongsi/l1524937.html" target="_blank" ka="seo-brand-17">上海木义田文化传媒有限公司</a>
-                        <a href="/gongsi/l1487614.html" target="_blank" ka="seo-brand-18">吉林省龙胜投资有限公司</a>
-                        <a href="/gongsi/l1349214.html" target="_blank" ka="seo-brand-19">深圳市旺德森旭日电力科技有限公司</a>
-                        <a href="/gongsi/l1453689.html" target="_blank" ka="seo-brand-20">河南恒辰机电设备有限公司</a>
-                        <a href="/gongsi/l11115842.html" target="_blank" ka="seo-brand-21">敦煌经典文化艺术有限公司</a>
-                        <a href="/gongsi/l1895845.html" target="_blank" ka="seo-brand-22">苏州车行九洲汽车服务有限公司宁波分公司</a>
-                        <a href="/gongsi/l1603103.html" target="_blank" ka="seo-brand-23">天津市蓟州村镇银行股份有限公司礼明庄支行</a>
-                        <a href="/gongsi/l1746979.html" target="_blank" ka="seo-brand-24">广州等爱服装有限公司</a>
-                        <a href="/gongsi/l1167792.html" target="_blank" ka="seo-brand-25">深圳蓝鑫荣实业有限公司</a>
-                        <a href="/gongsi/l1694403.html" target="_blank" ka="seo-brand-26">漳浦县红果果养生馆</a>
-                        <a href="/gongsi/l1940013.html" target="_blank" ka="seo-brand-27">武汉中创融诚投资基金管理有限公司</a>
-                        <a href="/gongsi/l11145171.html" target="_blank" ka="seo-brand-28">四川川蓉通电气工程有限公司</a>
-                        <a href="/gongsi/l1684902.html" target="_blank" ka="seo-brand-29">四川王性炎元宝枫农业科技有限公司</a>
-                        <a href="/gongsi/l1111598.html" target="_blank" ka="seo-brand-30">深圳中科智创科技有限公司</a>
+                        <a href="/gongsi/1a19f9e099ef1f071Hd92Nm1Fw~~.html" target="_blank" ka="seo-brand-1">万邦教育</a>
+                        <a href="/gongsi/7956098035c361401Hd92Nm6FA~~.html" target="_blank" ka="seo-brand-2">多乐小象</a>
+                        <a href="/gongsi/l1848773.html" target="_blank" ka="seo-brand-3">北京格尼国际科技开发有限公司</a>
+                        <a href="/gongsi/l1631457.html" target="_blank" ka="seo-brand-4">北京未来积分投资咨询有限公司</a>
+                        <a href="/gongsi/l1854102.html" target="_blank" ka="seo-brand-5">苏州凯瑞房产经纪有限公司</a>
+                        <a href="/gongsi/l11148880.html" target="_blank" ka="seo-brand-6">深圳哥诺尔科技有限公司</a>
+                        <a href="/gongsi/l111643.html" target="_blank" ka="seo-brand-7">邢台宠慕宠物用品有限公司</a>
+                        <a href="/gongsi/l11023493.html" target="_blank" ka="seo-brand-8">松桃海景卫浴店</a>
+                        <a href="/gongsi/l1710971.html" target="_blank" ka="seo-brand-9">兴平市贞源利商贸有限责任公司</a>
+                        <a href="/gongsi/l1847045.html" target="_blank" ka="seo-brand-10">上海商虎有色金属有限公司</a>
+                        <a href="/gongsi/l1660131.html" target="_blank" ka="seo-brand-11">柳州市柳东新区进谋糖烟便利店</a>
+                        <a href="/gongsi/l11160047.html" target="_blank" ka="seo-brand-12">六安中环商贸有限责任公司</a>
+                        <a href="/gongsi/l1549976.html" target="_blank" ka="seo-brand-13">黑龙江云筹商贸有限公司</a>
+                        <a href="/gongsi/l1290441.html" target="_blank" ka="seo-brand-14">常州普华智能技术有限公司</a>
+                        <a href="/gongsi/l1102246.html" target="_blank" ka="seo-brand-15">上海亘满科技有限公司</a>
+                        <a href="/gongsi/l1851356.html" target="_blank" ka="seo-brand-16">波密县正点传媒有限公司</a>
+                        <a href="/gongsi/l1262079.html" target="_blank" ka="seo-brand-17">合众北斗长和电子科技有限公司</a>
+                        <a href="/gongsi/l11149738.html" target="_blank" ka="seo-brand-18">福建省南平市金管家物业管理有限公司</a>
+                        <a href="/gongsi/l1202672.html" target="_blank" ka="seo-brand-19">麻阳泓程建筑工程有限公司</a>
+                        <a href="/gongsi/l11002881.html" target="_blank" ka="seo-brand-20">北京金玉九合珠宝有限公司</a>
+                        <a href="/gongsi/l1704618.html" target="_blank" ka="seo-brand-21">上海烽凰文化传播有限公司</a>
+                        <a href="/gongsi/l1177098.html" target="_blank" ka="seo-brand-22">深圳市辉腾长恒科技有限公司</a>
+                        <a href="/gongsi/l1566839.html" target="_blank" ka="seo-brand-23">合肥建嘉装饰工程有限公司</a>
+                        <a href="/gongsi/l112264.html" target="_blank" ka="seo-brand-24">上海绪实投资管理有限公司</a>
+                        <a href="/gongsi/l1848448.html" target="_blank" ka="seo-brand-25">惠州市美铭品尚装饰工程有限公司</a>
+                        <a href="/gongsi/l1174317.html" target="_blank" ka="seo-brand-26">广西南宁聚方源文化传播有限公司</a>
+                        <a href="/gongsi/l1320762.html" target="_blank" ka="seo-brand-27">武汉源启科技股份有限公司重庆分公司</a>
+                        <a href="/gongsi/l1460066.html" target="_blank" ka="seo-brand-28">青岛灵轩文化传媒有限公司</a>
+                        <a href="/gongsi/l1262720.html" target="_blank" ka="seo-brand-29">北海市湘平化工有限公司</a>
+                        <a href="/gongsi/l1996435.html" target="_blank" ka="seo-brand-30">岷县伟盛当归种植农民专业合作社</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>城市招聘：</dt>
         <dd>
-                     <a href="/c101100300/" target="_blank" ka="seo-city-1">阳泉招聘</a>
-                     <a href="/c101221000/" target="_blank" ka="seo-city-2">滁州招聘</a>
-                     <a href="/c101132000/" target="_blank" ka="seo-city-3">铁门关招聘</a>
-                     <a href="/c101131000/" target="_blank" ka="seo-city-4">阿克苏招聘</a>
-                     <a href="/c101181400/" target="_blank" ka="seo-city-5">周口招聘</a>
-                     <a href="/c101030100/" target="_blank" ka="seo-city-6">天津招聘</a>
-                     <a href="/c101281900/" target="_blank" ka="seo-city-7">揭阳招聘</a>
-                     <a href="/c101250900/" target="_blank" ka="seo-city-8">邵阳招聘</a>
-                     <a href="/c101180700/" target="_blank" ka="seo-city-9">南阳招聘</a>
-                     <a href="/c101051300/" target="_blank" ka="seo-city-10">大兴安岭招聘</a>
-                     <a href="/c101090300/" target="_blank" ka="seo-city-11">张家口招聘</a>
-                     <a href="/c101170200/" target="_blank" ka="seo-city-12">石嘴山招聘</a>
-                     <a href="/c101081200/" target="_blank" ka="seo-city-13">阿拉善招聘</a>
-                     <a href="/c101230500/" target="_blank" ka="seo-city-14">泉州招聘</a>
-                     <a href="/c101070300/" target="_blank" ka="seo-city-15">鞍山招聘</a>
-                     <a href="/c101071400/" target="_blank" ka="seo-city-16">葫芦岛招聘</a>
-                     <a href="/c101201300/" target="_blank" ka="seo-city-17">恩施招聘</a>
-                     <a href="/c101070400/" target="_blank" ka="seo-city-18">抚顺招聘</a>
-                     <a href="/c101080100/" target="_blank" ka="seo-city-19">呼和浩特招聘</a>
-                     <a href="/c101071000/" target="_blank" ka="seo-city-20">辽阳招聘</a>
+                     <a href="/c101281700/" target="_blank" ka="seo-city-1">中山招聘</a>
+                     <a href="/c101131400/" target="_blank" ka="seo-city-2">塔城招聘</a>
+                     <a href="/c101290400/" target="_blank" ka="seo-city-3">玉溪招聘</a>
+                     <a href="/c101211100/" target="_blank" ka="seo-city-4">舟山招聘</a>
+                     <a href="/c101170200/" target="_blank" ka="seo-city-5">石嘴山招聘</a>
+                     <a href="/c101330100/" target="_blank" ka="seo-city-6">澳门招聘</a>
+                     <a href="/c101131500/" target="_blank" ka="seo-city-7">阿勒泰招聘</a>
+                     <a href="/c101272100/" target="_blank" ka="seo-city-8">甘孜招聘</a>
+                     <a href="/c101130800/" target="_blank" ka="seo-city-9">吐鲁番招聘</a>
+                     <a href="/c101180200/" target="_blank" ka="seo-city-10">安阳招聘</a>
+                     <a href="/c101220500/" target="_blank" ka="seo-city-11">马鞍山招聘</a>
+                     <a href="/c101271800/" target="_blank" ka="seo-city-12">广元招聘</a>
+                     <a href="/c101280400/" target="_blank" ka="seo-city-13">梅州招聘</a>
+                     <a href="/c101100900/" target="_blank" ka="seo-city-14">朔州招聘</a>
+                     <a href="/c101270300/" target="_blank" ka="seo-city-15">自贡招聘</a>
+                     <a href="/c101030100/" target="_blank" ka="seo-city-16">天津招聘</a>
+                     <a href="/c101090800/" target="_blank" ka="seo-city-17">衡水招聘</a>
+                     <a href="/c101241100/" target="_blank" ka="seo-city-18">鹰潭招聘</a>
+                     <a href="/c101300200/" target="_blank" ka="seo-city-19">崇左招聘</a>
+                     <a href="/c101051300/" target="_blank" ka="seo-city-20">大兴安岭招聘</a>
         </dd>
     </dl>
     <dl class="links-item">
         <dt>热门职位：</dt>
         <dd>
-                    <a href="/p100607/" target="_blank" ka="seo-position-1">需求分析工程师招聘</a>
-                    <a href="/p100304/" target="_blank" ka="seo-position-2">性能测试招聘</a>
-                    <a href="/p100507/" target="_blank" ka="seo-position-3">数据仓库招聘</a>
-                    <a href="/p100807/" target="_blank" ka="seo-position-4">系统集成招聘</a>
-                    <a href="/p100509/" target="_blank" ka="seo-position-5">数据挖掘招聘</a>
-                    <a href="/p100307/" target="_blank" ka="seo-position-6">游戏测试招聘</a>
-                    <a href="/p100121/" target="_blank" ka="seo-position-7">语音/视频/图形开发招聘</a>
-                    <a href="/p100111/" target="_blank" ka="seo-position-8">VB招聘</a>
-                    <a href="/p101017/" target="_blank" ka="seo-position-9">光传输工程师招聘</a>
-                    <a href="/p100406/" target="_blank" ka="seo-position-10">系统管理员招聘</a>
-                    <a href="/p100108/" target="_blank" ka="seo-position-11">Hadoop招聘</a>
-                    <a href="/p100701/" target="_blank" ka="seo-position-12">技术经理招聘</a>
-                    <a href="/p101016/" target="_blank" ka="seo-position-13">光通信工程师招聘</a>
-                    <a href="/p100116/" target="_blank" ka="seo-position-14">Golang招聘</a>
-                    <a href="/p100201/" target="_blank" ka="seo-position-15">HTML5招聘</a>
-                    <a href="/p100113/" target="_blank" ka="seo-position-16">Ruby招聘</a>
-                    <a href="/p100815/" target="_blank" ka="seo-position-17">精益工程师招聘</a>
-                    <a href="/p100404/" target="_blank" ka="seo-position-18">系统工程师招聘</a>
-                    <a href="/p100814/" target="_blank" ka="seo-position-19">材料工程师招聘</a>
-                    <a href="/p100402/" target="_blank" ka="seo-position-20">运维开发工程师招聘</a>
-                    <a href="/p100301/" target="_blank" ka="seo-position-21">测试工程师招聘</a>
-                    <a href="/p100403/" target="_blank" ka="seo-position-22">网络工程师招聘</a>
-                    <a href="/p101399/" target="_blank" ka="seo-position-23">人工智能招聘</a>
-                    <a href="/p101010/" target="_blank" ka="seo-position-24">通信标准化工程师招聘</a>
-                    <a href="/p100511/" target="_blank" ka="seo-position-25">数据分析师招聘</a>
-                    <a href="/p100401/" target="_blank" ka="seo-position-26">运维工程师招聘</a>
-                    <a href="/p101401/" target="_blank" ka="seo-position-27">电子工程师招聘</a>
-                    <a href="/p100120/" target="_blank" ka="seo-position-28">算法工程师招聘</a>
-                    <a href="/p100810/" target="_blank" ka="seo-position-29">ARM开发招聘</a>
-                    <a href="/p100114/" target="_blank" ka="seo-position-30">Node.js招聘</a>
+                    <a href="/p100801/" target="_blank" ka="seo-position-1">硬件招聘</a>
+                    <a href="/p100814/" target="_blank" ka="seo-position-2">材料工程师招聘</a>
+                    <a href="/p100199/" target="_blank" ka="seo-position-3">后端开发招聘</a>
+                    <a href="/p100403/" target="_blank" ka="seo-position-4">网络工程师招聘</a>
+                    <a href="/p101399/" target="_blank" ka="seo-position-5">人工智能招聘</a>
+                    <a href="/p101018/" target="_blank" ka="seo-position-6">光网络工程师招聘</a>
+                    <a href="/p100507/" target="_blank" ka="seo-position-7">数据仓库招聘</a>
+                    <a href="/p100813/" target="_blank" ka="seo-position-8">热传导招聘</a>
+                    <a href="/p101003/" target="_blank" ka="seo-position-9">数据通信工程师招聘</a>
+                    <a href="/p100508/" target="_blank" ka="seo-position-10">数据开发招聘</a>
+                    <a href="/p100303/" target="_blank" ka="seo-position-11">功能测试招聘</a>
+                    <a href="/p100812/" target="_blank" ka="seo-position-12">模具设计招聘</a>
+                    <a href="/p100301/" target="_blank" ka="seo-position-13">测试工程师招聘</a>
+                    <a href="/p101007/" target="_blank" ka="seo-position-14">有线传输工程师招聘</a>
+                    <a href="/p101404/" target="_blank" ka="seo-position-15">电气设计工程师招聘</a>
+                    <a href="/p101004/" target="_blank" ka="seo-position-16">移动通信工程师招聘</a>
+                    <a href="/p100109/" target="_blank" ka="seo-position-17">Python招聘</a>
+                    <a href="/p100302/" target="_blank" ka="seo-position-18">自动化测试招聘</a>
+                    <a href="/p100809/" target="_blank" ka="seo-position-19">DSP开发招聘</a>
+                    <a href="/p100607/" target="_blank" ka="seo-position-20">需求分析工程师招聘</a>
+                    <a href="/p101009/" target="_blank" ka="seo-position-21">通信电源工程师招聘</a>
+                    <a href="/p101016/" target="_blank" ka="seo-position-22">光通信工程师招聘</a>
+                    <a href="/p101008/" target="_blank" ka="seo-position-23">无线射频工程师招聘</a>
+                    <a href="/p101001/" target="_blank" ka="seo-position-24">通信技术工程师招聘</a>
+                    <a href="/p100407/" target="_blank" ka="seo-position-25">网络安全招聘</a>
+                    <a href="/p100506/" target="_blank" ka="seo-position-26">ETL工程师招聘</a>
+                    <a href="/p100112/" target="_blank" ka="seo-position-27">Perl招聘</a>
+                    <a href="/p100599/" target="_blank" ka="seo-position-28">数据招聘</a>
+                    <a href="/p100119/" target="_blank" ka="seo-position-29">Erlang招聘</a>
+                    <a href="/p101005/" target="_blank" ka="seo-position-30">电信网络工程师招聘</a>
         </dd>
     </dl>
     <label><span>展开</span><i class="fz fz-slidedown"></i></label>
 </div>                    <div class="pos-bread">
-                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101200100/" ka="job-breadcrumb-bottom2">武汉招聘</a>·<a href="/p100301/" ka="job-breadcrumb-bottom21">测试工程师招聘</a><i class="icon-arrow-right"></i><a href="/c101200100-p100301/" ka="job-breadcrumb-bottom3">武汉测试工程师招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html" ka="job-breadcrumb-bottom4">软通动力测试工程师招聘</a>
+                        <a href="/" ka="job-breadcrumb-bottom1">首页</a><i class="icon-arrow-right"></i><a href="/c101200100/" ka="job-breadcrumb-bottom2">武汉招聘</a>·<a href="/p100702/" ka="job-breadcrumb-bottom21">技术总监招聘</a><i class="icon-arrow-right"></i><a href="/c101200100-p100702/" ka="job-breadcrumb-bottom3">武汉技术总监招聘</a><i class="icon-arrow-right"></i><a href="/job_detail/780ad030f3145d261Hd_0927F1E~.html" ka="job-breadcrumb-bottom4">齐创技术总监招聘</a>
                     </div>
                 </div>
             </div>
@@ -1217,14 +1228,14 @@
     </div>
     <div class="sign-content">
         <div class="inner-box">
-            <input type="hidden" class="scene" value="3e907510a48a4c1b9cec752b5829024c"/>
+            <input type="hidden" class="scene" value="bc44307bca3a4fe194bf1dd35bb9acd2"/>
             <h4>微信快速注册</h4>
             <div class="qrcodeimg-box">
                 <div class="invalid-box">
                     <p>请重新刷新二维码</p>
                     <button class="btn">点击刷新</button>
                 </div>
-                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=3e907510a48a4c1b9cec752b5829024c">
+                <img src="" data-url="https://www.zhipin.com/qrscan/dispatcher?qrId=bc44307bca3a4fe194bf1dd35bb9acd2">
             </div>
             <p class="sign-tip">请用微信“扫一扫”扫描上方二维码<br/>进入快捷注册</p>
             <div class="text-tip">已有账号 <a href="javascript:;" class="link-signin">立即登录</a></div>
@@ -1265,7 +1276,7 @@
         <li><span class="text">我是谁谁谁我是谁谁谁</span></li>
     </ul>
     <div class="avatar">
-            <img src="https://img.bosszhipin.com/beijin/upload/avatar/20190804/9d2ac32c546453ef72094c88c38a5afe22c657b3a1b12f63ca040fe2acccce75_s.jpg?x-oss-process=image/resize,w_100,limit_0" />
+            <img src="https://img.bosszhipin.com/beijin/mcs/useravatar/20190206/aea533f0672a7d3937568cb1d03512f4598f5d53618d6876b7e449f6cdaad52b_s.png?x-oss-process=image/resize,w_100,limit_0" />
     </div>
 </div>
 <div class="container-tip">
@@ -1417,11 +1428,11 @@
 </script><script type="application/ld+json">
     {
         "@context": "https://zhanzhang.baidu.com/contexts/cambrian.jsonld",
-        "@id": "https://www.zhipin.com/job_detail/d01e0f66d374ce941Hd72tW_E1A~.html",
-        "title": "【软件测试招聘】_软通动力招聘-BOSS直聘",
-        "description": "软通动力招聘软件测试牛人,更多软通动力软件测试招聘信息,请登录BOSS直聘查看详细的软通动力对软件测试岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
-        "pubDate": "2019-01-31T15:19:45",
-        "upDate":  "2019-06-03T11:12:15"
+        "@id": "https://www.zhipin.com/job_detail/780ad030f3145d261Hd_0927F1E~.html",
+        "title": "【技术总监招聘】_齐创招聘-BOSS直聘",
+        "description": "齐创招聘技术总监牛人,更多齐创技术总监招聘信息,请登录BOSS直聘查看详细的齐创对技术总监岗位牛人的岗位职责要求、工作内容说明、薪资待遇介绍等招聘信息。",
+        "pubDate": "2019-02-14T03:05:17",
+        "upDate":  "2019-02-26T00:30:59"
     }
 </script>
 </html>
