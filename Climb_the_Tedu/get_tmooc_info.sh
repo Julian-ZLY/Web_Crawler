@@ -58,7 +58,7 @@ function DOWNLOAD_PPT() {
     done
 } 
 
-DOWNLOAD_PPT 
+# DOWNLOAD_PPT 
 
 
 # 下载PDF
@@ -80,28 +80,27 @@ function DOWNLOAD_PDF() {
 	    echo "${PPT_PATH}/${title}/${title_01}.pdf 已转换保存" 
 	else 
             echo -e "\033[31m\t转换PDF格式失败;可能未安装所需软件包: wkhtmltopdf\033[0m"
+	    exit 0 
 	fi
     done 
 } 
 
-DOWNLOAD_PDF
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 检测运行环境
+which wkhtmltopdf 
+if [ $? -eq 0 ]; then 
+    DOWNLOAD_PPT 
+    DOWNLOAD_PDF
+else 
+    read -p "是否安装所需软件包 wkhtmltopdf (Y/N)" request 
+    [ "${request}" == "Y" ] && yum -y install wkhtmltopdf 
+    
+    if [ $? -eq 0 ]; then 
+        DOWNLOAD_PPT 
+        DOWNLOAD_PDF
+    else 
+        echo -e "\033[31m\t安装wkhtmltopdf失败\033[0m"
+        exit 0 
+    fi 
+fi 
 
