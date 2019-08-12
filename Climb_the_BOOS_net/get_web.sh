@@ -6,11 +6,9 @@ rm -rf ${Index_url}
 
 Result=`date +%Y-%m-%d_%T`
 
-# 一级域名cookie缓存
-Julian_cookie='cookie:_uab_collina=156515790500120207873583; lastCity=101200100; _uab_collina=156523336605563703908828; __c=1565572821; __g=-; __zp_stoken__=a2ealk%2F3B7QHkJiu%2B3AMZ2MYfQfdaptSXf%2FubvoWVPYRZfFxeodwtmvKrdaqby%2FFPCTj8a9qr%2BgYFIkhm7rzTDphtw%3D%3D; __l=l=%2Fwww.zhipin.com%2Fweb%2Fcommon%2Fsecurity-check.html%3Fseed%3D8GW5MJju8lLJYiy0ScbtIaCP3z1AjK4PLcoNvzorHIQ%253D%26name%3D7c0225ec%26ts%3D1565572820744%26callbackUrl%3D%252Fjob_detail%252F%253Fquery%253D%2525E5%2525B0%25258F%2525E7%2525B1%2525B3%25250A%2526industry%253D%2526position%253D&r=; __a=75198609.1565233369.1565157906.1565572821.7.2.4.7; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1565233372,1565572823; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1565572825' 
+# 一级域名BOOS直聘账号缓存cookie
+Julian_cookie='cookie:lastCity=101200100; _uab_collina=156523336605563703908828; __c=1565572821; __g=-; __zp_stoken__=a2ealk%2F3B7QHkJiu%2B3AMZ2MYfQfdaptSXf%2FubvoWVPYRZfFxeodwtmvKrdaqby%2FFPCTj8a9qr%2BgYFIkhm7rzTDphtw%3D%3D; toUrl=https%3A%2F%2Fwww.zhipin.com%2Fjob_detail%2F%3Fquery%3D%25E5%25B0%258F%25E7%25B1%25B3%26industry%3D%26position%3D; wt=lhvZFZ7YRhoIVkoh; t=lhvZFZ7YRhoIVkoh; JSESSIONID=""; _bl_uid=baj2Lzd97X2rzCia2va8x3scn1np; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1565233372,1565572823; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1565576000; __l=l=%2Fwww.zhipin.com%2Fweb%2Fcommon%2Fsecurity-check.html%3Fseed%3D8GW5MJju8lLJYiy0ScbtIaCP3z1AjK4PLcoNvzorHIQ%253D%26name%3D7c0225ec%26ts%3D1565572820744%26callbackUrl%3D%252Fjob_detail%252F%253Fquery%253D%2525E5%2525B0%25258F%2525E7%2525B1%2525B3%25250A%2526industry%253D%2526position%253D&r=; __a=75198609.1565233369.1565157906.1565572821.25.2.22.25' 
 
-# 二级域名cookie缓存
-cookie_02='cookie:_uab_collina=156515790500120207873583; lastCity=101200100; _uab_collina=156523336605563703908828; __c=1565572821; __g=-; __zp_stoken__=a2ealk%2F3B7QHkJiu%2B3AMZ2MYfQfdaptSXf%2FubvoWVPYRZfFxeodwtmvKrdaqby%2FFPCTj8a9qr%2BgYFIkhm7rzTDphtw%3D%3D; __l=l=%2Fwww.zhipin.com%2Fweb%2Fcommon%2Fsecurity-check.html%3Fseed%3D8GW5MJju8lLJYiy0ScbtIaCP3z1AjK4PLcoNvzorHIQ%253D%26name%3D7c0225ec%26ts%3D1565572820744%26callbackUrl%3D%252Fjob_detail%252F%253Fquery%253D%2525E5%2525B0%25258F%2525E7%2525B1%2525B3%25250A%2526industry%253D%2526position%253D&r=; __a=75198609.1565233369.1565157906.1565572821.13.2.10.13; Hm_lvt_194df3105ad7148dcf2b98a91b5e727a=1565233372,1565572823; Hm_lpvt_194df3105ad7148dcf2b98a91b5e727a=1565573752' 
 
 # citycode = {"北京":"101010100","上海":"101020100","天津":"101030100","重庆":"101040100",
 # "哈尔滨":"101050100","长春":"101060100","沈阳":"101070100","呼和浩特":"101080100","石家庄":"101090100",
@@ -119,7 +117,7 @@ function get_request_default() {
     str_coding=$(echo "${info}" | xxd -plaion | sed 's/\(..\)/%\1/g')
 
     # 默认当前城市
-    URL="https://www.zhipin.com/job_detail/?query=${str_coding}&industry=&position="
+    URL="https://www.zhipin.com/job_detail/?query=${str_coding}&city=101200100&industry=&position="
 } 
 
 
@@ -166,7 +164,7 @@ function get_web() {
         # 调用终端打印结果
         # gnome-terminal -x bash -c "./cat_result.sh" 
 	
-        curl --cookie "${cookie_02}" -H "${Baiduspider}" "$i" > ./web_file/web.txt 
+        curl --cookie "${Julian_cookie}" -H "${Baiduspider}" "$i" > ./web_file/web.txt 
         sleep 3 
 
         \cp ./web_file/web.txt ./web_file/cp_web.html 
@@ -187,7 +185,7 @@ case $1 in
 
   '--help'|'-h')
     echo -e "\033[31m\n脚本参数:"
-    echo -e "\033[32m\t./get_web\t\t搜索当前城市"
+    echo -e "\033[32m\t./get_web\t\t默认所搜武汉职位信息"
     echo -e "\033[32m\t./get_web  --city\t指定城市搜索"
     echo -e "\033[31m\n脚本描述:"
     echo -e "\033[33m\tget_web.sh\t\t请求网页获取源码"
