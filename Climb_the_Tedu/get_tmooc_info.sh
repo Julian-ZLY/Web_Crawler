@@ -7,7 +7,7 @@ PPT_PATH='TMOOC'
 
 
 # cookie缓存
-Julian_cookie='Cookie:Hm_lvt_51179c297feac072ee8d3f66a55aa1bd=1565143728,1565266060,1565502423; Hm_lpvt_51179c297feac072ee8d3f66a55aa1bd=1565502423; TMOOC-SESSION=07FAD4349D4E4E42A8E2E076AA252D5F; sessionid=07FAD4349D4E4E42A8E2E076AA252D5F|1152688049%40qq.com; cloudAuthorityCookie=0; versionListCookie=NSDTN201904; defaultVersionCookie=NSDTN201904; versionAndNamesListCookie=NSDTN201904N22NLinux%25E4%25BA%2591%25E8%25AE%25A1%25E7%25AE%2597%25E5%2585%25A8%25E6%2597%25A5%25E5%2588%25B6%25E8%25AF%25BE%25E7%25A8%258BV07; courseCookie=LINUX; stuClaIdCookie=576746; JSESSIONID=FA444ED65E56489542E2BB9D4EB9DBF4; tedu.local.language=zh-CN; Hm_lvt_e997f0189b675e95bb22e0f8e2b5fa74=1565396707,1565502259,1565502430,1565503236; Hm_lpvt_e997f0189b675e95bb22e0f8e2b5fa74=1565503236; isCenterCookie=yes' 
+Julian_cookie='Cookie:eBoxOpenNSDTN201904=true; eBoxOpenNSDTN201801=true; eBoxOpenAIDTN201903=true; TMOOC-SESSION=F15C24489ACA4D9983B15140446948E4; Hm_lvt_51179c297feac072ee8d3f66a55aa1bd=1565143728,1565266060,1565502423,1565667752; Hm_lpvt_51179c297feac072ee8d3f66a55aa1bd=1565784971; sessionid=F15C24489ACA4D9983B15140446948E4|E_bfuo0k5; cloudAuthorityCookie=0; versionListCookie=AIDTN201903; defaultVersionCookie=AIDTN201903; versionAndNamesListCookie=AIDTN201903N22NPython%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%2585%25A8%25E6%2597%25A5%25E5%2588%25B6%25E8%25AF%25BE%25E7%25A8%258BV06; courseCookie=AID; stuClaIdCookie=699459; JSESSIONID=34EDA738B2B3CBAA1286EC685FB87AE3; tedu.local.language=zh-CN; Hm_lvt_e997f0189b675e95bb22e0f8e2b5fa74=1565784918,1565785002,1565785465,1565785490; Hm_lpvt_e997f0189b675e95bb22e0f8e2b5fa74=1565785490; isCenterCookie=yes' 
 
 # 一级URL
 tmooc_URL='http://tts.tmooc.cn/studentCenter/toMyttsPage'
@@ -92,15 +92,6 @@ if [ $? -eq 0 ]; then
     DOWNLOAD_PPT 
     DOWNLOAD_PDF
 else 
-    read -p "是否安装所需软件包 wkhtmltopdf (Y/N)" request 
-    [ "${request}" == "Y" ] && yum -y install wkhtmltopdf 
-    
-    if [ $? -eq 0 ]; then 
-        DOWNLOAD_PPT 
-        DOWNLOAD_PDF
-    else 
-        echo -e "\033[31m\t安装wkhtmltopdf失败\033[0m"
-        exit 0 
-    fi 
+    echo -e "\033[31m\t本机尚未安装wkhtmltopdf\033[0m"
+    sleep 1 ; exit 0
 fi 
-
